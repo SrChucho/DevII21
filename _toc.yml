@@ -31,11 +31,12 @@ parts:
      - file: notebooks/RDD_R.ipynb
        title: RD designs (in R)
 
-- caption: Econ 842 Materials
-  chapters:
-   - file: course/classf21
-     sections: 
-     - file: notebooks/FarmHH_pset
+
+#- caption: Econ 842 Materials
+#  chapters:
+#   - file: course/classf21
+#     sections: 
+#     - file: notebooks/FarmHH_pset
 
 
 - caption: Tools
