@@ -3,6 +3,7 @@
 ```{contents}
 ```
 
+<!-- 
 ## Syllabus and Materials
 
 - Syllabus: [DevII Fall 2021](https://drive.google.com/file/d/1Mp3PpgudOVyCmTZG9z78oD6UY7dtcvV5/view?usp=sharing)
@@ -10,6 +11,8 @@
 - [DevII-fall21](https://github.com/jhconning/DevII-fall21/): (private) github repository for sharing class materials and discussion.
   
 - Slides: [Through 9/30](https://drive.google.com/file/d/1B_UB32PgV_3X8tYmORv6p5Lm_1VkelU9/view?usp=sharing).  See below at the top of each new topic for links to relevant notebooks and other materials.
+
+-->
 
 ## Topics, Readings, and Slides
 
