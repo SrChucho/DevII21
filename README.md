@@ -1,6 +1,14 @@
-# Dev II - Development Notebooks
+# Dev II - Development Seminar
 
-Jupyter Notebooks for Development Economics.
+## Fall 2024 students
+[Syllabus](https://www.dropbox.com/scl/fi/w81pd19jzl4c4nhc8d3n5/E842_DevII_F24.pdf?rlkey=qew4kxyjkdly0riik2iaspuo3&st=wfd7lzz5&dl=0)
+
+Slides used in classes here:
+- [Week 1](https://www.dropbox.com/scl/fi/ut28a008yy6lwnen227n6/slides_I.pdf?rlkey=l2nglcskkvx5ymi87ejog4ac1&st=lsjnzpoy&dl=0)
+- [Week 2](https://www.dropbox.com/scl/fi/tzxes778fprtkk20rg74j/slides_2.pdf?rlkey=hac35h5k37dwhwk8nuw2u31p1&st=xkf091l7&dl=0)
+
+
+## Jupyter Notebooks for Development Economics.
 
 - github repository: [github.com/jhconning/DevII](https://github.com/jhconning/DevII21)
 - rendered website: [jhconning.github.io/DevII/](https://jhconning.github.io/DevII21/) 
@@ -15,7 +23,3 @@ These materials support the PhD **Econ 842: Development Seminar II** at The Grad
 ```{tableofcontents}
 ```
 
-## Fall 2024 students
-I'll have a new site up shortly.  In the meantime slides used in classes here:
-- [Week 1](https://www.dropbox.com/scl/fi/ut28a008yy6lwnen227n6/slides_I.pdf?rlkey=l2nglcskkvx5ymi87ejog4ac1&st=lsjnzpoy&dl=0)
-- [Week 2](https://www.dropbox.com/scl/fi/tzxes778fprtkk20rg74j/slides_2.pdf?rlkey=hac35h5k37dwhwk8nuw2u31p1&st=xkf091l7&dl=0)
