@@ -18,7 +18,7 @@ import matplotlib.pyplot as plt
 from ipywidgets import interact, fixed
 import seaborn
 
-plt.style.use('seaborn-colorblind')
+#plt.style.use('seaborn-colorblind')
 plt.rcParams["figure.figsize"] = [7,7]
 plt.rcParams["axes.spines.right"] = True
 plt.rcParams["axes.spines.top"] = False
@@ -33,7 +33,7 @@ LbarMax = 400    # Lbar will be on slider, max value.
 p    = 1.00      # initial rel price of ag goods, p = Pa/Pm
 alpha, beta = 0.5, 0.5  # labor share in ag, manuf
 
-La = np.linspace(1, LbarMax-1,LbarMax)
+La = np.linspace(0.1, LbarMax-0.1, LbarMax)
 Lm = Lbar - La
 
 def F(La, Tbar = Tbar):

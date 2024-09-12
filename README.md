@@ -1,19 +1,31 @@
 # Dev II - Development Seminar
 
 ## Fall 2024 students
-[Syllabus](https://www.dropbox.com/scl/fi/w81pd19jzl4c4nhc8d3n5/E842_DevII_F24.pdf?rlkey=qew4kxyjkdly0riik2iaspuo3&st=wfd7lzz5&dl=0)
+- [Syllabus](https://www.dropbox.com/scl/fi/w81pd19jzl4c4nhc8d3n5/E842_DevII_F24.pdf?rlkey=qew4kxyjkdly0riik2iaspuo3&st=wfd7lzz5&dl=0)
 
-Slides and notebooks used in classes here:
-- [Week 1](https://www.dropbox.com/scl/fi/ut28a008yy6lwnen227n6/slides_I.pdf?rlkey=l2nglcskkvx5ymi87ejog4ac1&st=lsjnzpoy&dl=0): Introduction
+### Class Slides and related notebooks:
+- **Week 1: Introduction**
+  - [class slides](https://www.dropbox.com/scl/fi/ut28a008yy6lwnen227n6/slides_I.pdf?rlkey=l2nglcskkvx5ymi87ejog4ac1&st=lsjnzpoy&dl=0)
   - [Lucas1990](notebooks/Lucas90.ipynb)
-- [Week 2](https://www.dropbox.com/scl/fi/tzxes778fprtkk20rg74j/slides_2.pdf?rlkey=hac35h5k37dwhwk8nuw2u31p1&st=xkf091l7&dl=0): Income and Productivity Gaps
+
+- **Week 2: Income and Productivity Gaps**
+  - [class slides]((https://www.dropbox.com/scl/fi/tzxes778fprtkk20rg74j/slides_2.pdf?rlkey=hac35h5k37dwhwk8nuw2u31p1&st=xkf091l7&dl=0))
   - [Vollrath2009](notebooks/Vollrath.ipynb)
   - [Edgeworth Box](notebooks/EdgeworthProduction.ipynb)
-- [Week 3]():  Structural Transformation
+
+- **Week 3:  Structural Transformation**
+  - [class slides](https://www.dropbox.com/scl/fi/i0fcy7ynq9tuxwbv8nzdw/slides_structural.pdf?rlkey=1eoyjy7fz8ffctxqixw7656cx&dl=0) 
+  - Student slides: 
+    - [Galor et al](https://www.dropbox.com/scl/fi/cxgg7fo3jpco21ob0yvwa/wk3_Dev2_Presentation_ThomasLiess.pdf?rlkey=ibx51ba3zuu9pmy1hi8715oah&dl=0)
+    - [Herrendor et al](https://www.dropbox.com/scl/fi/u570llyop73c5cbfqip8x/wk3_sadie_Structural-Transformation.pptx?rlkey=vtsdgmoferclxqj9qti4wg1w6&dl=0)
   - [Specific Factors](notebooks/SFM.ipynb)
   - [Structural Transformation Notes](notebooks/StructuralT1.ipynb)
   - [Harris Todaro Migration](notebooks/HarrisTodaro.ipynb)
 
+- **Week 4: Institutions, Political Economy, and Persistence**
+  - class slides 
+  - [geospatial analysis](notebooks/Fenske.ipynb)
+  - [RD designs](notebooks/RDD_R.ipynb)
 
 
 ## Jupyter Notebooks for Development Economics.
