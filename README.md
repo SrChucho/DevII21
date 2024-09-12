@@ -9,7 +9,7 @@
   - [Lucas1990](notebooks/Lucas90.ipynb)
 
 - **Week 2: Income and Productivity Gaps**
-  - [class slides]((https://www.dropbox.com/scl/fi/tzxes778fprtkk20rg74j/slides_2.pdf?rlkey=hac35h5k37dwhwk8nuw2u31p1&st=xkf091l7&dl=0))
+  - [class slides](https://www.dropbox.com/scl/fi/tzxes778fprtkk20rg74j/slides_2.pdf?rlkey=hac35h5k37dwhwk8nuw2u31p1&st=5pbwfuh2&dl=0)
   - [Vollrath2009](notebooks/Vollrath.ipynb)
   - [Edgeworth Box](notebooks/EdgeworthProduction.ipynb)
 
