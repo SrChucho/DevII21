@@ -24,6 +24,7 @@
 
 - **Week 4: Institutions, Political Economy, and Persistence**
   - class slides 
+  - [Noptes on Coase](notebooks/Coase.ipynb)
   - [geospatial analysis](notebooks/Fenske.ipynb)
   - [RD designs](notebooks/RDD_R.ipynb)
 
