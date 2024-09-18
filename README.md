@@ -27,7 +27,7 @@
   - [Notes on Coase](notebooks/Coase.ipynb)
   - [geospatial analysis](notebooks/Fenske.ipynb)
   - [RD designs](notebooks/RDD_R.ipynb)
-
+  - [Melissa Dell (2010) - paper presentation](students-presentations/week-4/Minning-Mita.pdf)
 
 ## Jupyter Notebooks for Development Economics.
 
