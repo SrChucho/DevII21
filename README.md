@@ -23,8 +23,8 @@
   - [Harris Todaro Migration](notebooks/HarrisTodaro.ipynb)
 
 - **Week 4: Institutions, Political Economy, and Persistence**
-  - class slides 
-  - [Noptes on Coase](notebooks/Coase.ipynb)
+  - [class slides](https://www.dropbox.com/scl/fi/1cijhktq37dxyet824rud/slides_institutions-persistence.pdf?rlkey=eagwv84lhbdt0bkm7bqsgtb3p&st=yjf0xtsq&dl=0)
+  - [Notes on Coase](notebooks/Coase.ipynb)
   - [geospatial analysis](notebooks/Fenske.ipynb)
   - [RD designs](notebooks/RDD_R.ipynb)
 
